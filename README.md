@@ -58,9 +58,9 @@ The model achieved **high validation accuracy** and low loss during training. Th
 
 ## 📬 Contact
 
-**Shristi Shreya**  
-📧 [shristishreya2004@gmail.com](mailto:shristishreya2004@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)
+**Kanya kumari Sahu**  
+📧 [kanyakumarisahu270@gmail.com](mailto:kanyakumarisahu270@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kanya-kumari-sahu-9b2a72278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ---
 
